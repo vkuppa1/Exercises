@@ -1,17 +1,17 @@
 ﻿<%@ Page Title="Contact" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeFile="Contact.aspx.cs" Inherits="Contact" %>
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
-    <h2><%: Title %>.</h2>
-    <h3>Your contact page.</h3>
+    <h2><%: Github DVCS Demo %>.</h2>
+    <h3>Vamsee Krishna Kuppa.</h3>
     <address>
-        One Microsoft Way<br />
-        Redmond, WA 98052-6399<br />
+        user id : vkuppa1<br />
+        
         <abbr title="Phone">P:</abbr>
-        425.555.0100
+        7807081049
     </address>
 
     <address>
-        <strong>Support:</strong>   <a href="mailto:Support@example.com">Support@example.com</a><br />
-        <strong>Marketing:</strong> <a href="mailto:Marketing@example.com">Marketing@example.com</a>
+        <strong>Email:</strong>   <a href="mailto:vkuppa1@hotmail.com">vkuppa1@hotmail.com</a><br />
+        <strong>Study:</strong> <a href="www.nait.ca">Nait Website</a>
     </address>
 </asp:Content>
